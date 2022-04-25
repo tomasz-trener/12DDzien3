@@ -16,7 +16,7 @@ namespace P10ZadaniePogodaWersjaAlternatywna
             mp.Jednostka = Jednostka.Farenheit;
             string s2 = mp.PodajTemperature("Warszawa"); // od teraz bede bral temperature w farenheitech
 
-
+            //przerwa 13:20
 
         }
     }

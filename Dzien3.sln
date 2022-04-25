@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09ZadaniePogoda", "P09Zada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10ZadaniePogodaWersjaAlternatywna", "P10ZadaniePogodaWersjaAlternatywna\P10ZadaniePogodaWersjaAlternatywna.csproj", "{748AEC54-DE4E-40C2-933F-23A50D901119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11ZadanieZawodnicy", "P11ZadanieZawodnicy\P11ZadanieZawodnicy.csproj", "{7B3E5898-1287-45C9-9E88-573565942A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12ManagerZawodnikow", "P12ManagerZawodnikow\P12ManagerZawodnikow.csproj", "{22059318-0657-4606-B2BD-FF42E14C6F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{748AEC54-DE4E-40C2-933F-23A50D901119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748AEC54-DE4E-40C2-933F-23A50D901119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748AEC54-DE4E-40C2-933F-23A50D901119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3E5898-1287-45C9-9E88-573565942A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3E5898-1287-45C9-9E88-573565942A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3E5898-1287-45C9-9E88-573565942A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3E5898-1287-45C9-9E88-573565942A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22059318-0657-4606-B2BD-FF42E14C6F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22059318-0657-4606-B2BD-FF42E14C6F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22059318-0657-4606-B2BD-FF42E14C6F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22059318-0657-4606-B2BD-FF42E14C6F64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
