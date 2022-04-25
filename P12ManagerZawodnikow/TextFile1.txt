@@ -2,3 +2,5 @@
 Proszę stworzyć klasę ManagerZawodnikow, która udostepnia możliwość  stworzenia (wygenerowania)
 
 gotowej tablicy zawodników z pliku 
+
+w jaki sposob przechowaywac bledneWiersze 
