@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08PolaStatyczne", "P08Pola
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09ZadaniePogoda", "P09ZadaniePogoda\P09ZadaniePogoda.csproj", "{C19DBCE3-ADA7-429A-8AE9-39CF575C7CB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10ZadaniePogodaWersjaAlternatywna", "P10ZadaniePogodaWersjaAlternatywna\P10ZadaniePogodaWersjaAlternatywna.csproj", "{748AEC54-DE4E-40C2-933F-23A50D901119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C19DBCE3-ADA7-429A-8AE9-39CF575C7CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C19DBCE3-ADA7-429A-8AE9-39CF575C7CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C19DBCE3-ADA7-429A-8AE9-39CF575C7CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748AEC54-DE4E-40C2-933F-23A50D901119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748AEC54-DE4E-40C2-933F-23A50D901119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748AEC54-DE4E-40C2-933F-23A50D901119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748AEC54-DE4E-40C2-933F-23A50D901119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
