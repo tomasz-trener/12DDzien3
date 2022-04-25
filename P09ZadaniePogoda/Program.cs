@@ -10,6 +10,9 @@ namespace P09ZadaniePogoda
     {
         static void Main(string[] args)
         {
+            ManagerPogody mp = new ManagerPogody();
+            mp.PodajTemperature("Warszawa");
+            Console.ReadKey();
         }
     }
 }

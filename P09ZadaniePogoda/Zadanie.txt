@@ -11,4 +11,3 @@ z dowolnej jednostki na dowolna inna
 Czesc3:
 Zakutualizuj Manager pogody tak aby mozna bylo podac pogode dla danego miasta w dowolnej jednostce 
 
-s
