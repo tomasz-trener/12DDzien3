@@ -1,0 +1,14 @@
+﻿
+czesc 1:
+
+Stworz klase ManagerPogody , ktora bedzie udsotepniac metode "Podaj temperature" dla danego miasta 
+skorzystaj z kodu w Dzien2/P02ZadaniePogoda
+
+czesc2: w tym mamy projekcie stworz klase TransformatorJednostek, ktora udostepnia metode "ZamienTemperature"
+z dowolnej jednostki na dowolna inna 
+(Mozliwe do uzycia jednostki to: Celcjusz, Kelvin i Farenheit) 
+
+Czesc3:
+Zakutualizuj Manager pogody tak aby mozna bylo podac pogode dla danego miasta w dowolnej jednostce 
+
+s

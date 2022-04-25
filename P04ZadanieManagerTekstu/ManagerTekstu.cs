@@ -43,6 +43,6 @@ namespace P04ZadanieManagerTekstu
 
             return znalezione.ToArray();
         }
-
+        //https://github.com/tomasz-trener/12DDzien3
     }
 }
