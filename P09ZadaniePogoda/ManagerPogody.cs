@@ -9,7 +9,7 @@ namespace P09ZadaniePogoda
 {
     internal class ManagerPogody
     {
-        public string PodajTemperature(string miasto)
+        public string PodajTemperature(string miasto, Jednostka jd = Jednostka.Celcjusz)
         {
             const string url = "https://www.google.com/search?q=pogoda";
             const char znak = '°';
@@ -40,7 +40,10 @@ namespace P09ZadaniePogoda
                 throw new Exception("Nieznane miasto");
             }
 
-            string wynik = dane.Substring(aktualnaPozycja + 1, indx - aktualnaPozycja + 1);
+            string wynik = dane.Substring(aktualnaPozycja + 1, indx - aktualnaPozycja + 1-2); // usuwam znaki oC
+
+            TransformatorJednostek tj = new TransformatorJednostek();
+            wynik= Convert.ToString(tj.ZamienTemprature(Convert.ToInt32(wynik), jd, Jednostka.Celcjusz));
 
             //Console.WriteLine(wynik);
             return wynik;
